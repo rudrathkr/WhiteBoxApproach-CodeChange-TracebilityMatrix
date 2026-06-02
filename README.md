@@ -46,6 +46,7 @@ This demo contains:
 - **Impact Analysis Engine**: Code change impact analyzer
 
 ---
+<img width="2200" height="1500" alt="image" src="https://github.com/user-attachments/assets/25b5b5c3-fdc5-417e-be75-be589445fd5b" />
 
 # Prerequisites
 
